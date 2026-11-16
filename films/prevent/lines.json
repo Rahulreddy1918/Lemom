@@ -1,0 +1,15 @@
+[
+ {"id":"l01","text":"One small change, found late, touches everything after it.","voice":"bm_george","speed":0.95},
+ {"id":"l02","text":"And it is not new. The same kind of change has happened before.","voice":"bm_george","speed":0.95},
+ {"id":"l03","text":"Everything needed to stop it is already in the company. It is only scattered.","voice":"bm_george","speed":0.95},
+ {"id":"l04","text":"This is PREVENT.","voice":"bm_george","speed":0.95},
+ {"id":"l05","text":"It connects what engineering already knows into one knowledge graph that keeps growing.","voice":"bm_george","speed":0.95},
+ {"id":"l06","text":"While the engineer is still finalising the design, PREVENT speaks up.","asr":"While the engineer is still finalizing the design, prevents speaks up.","voice":"bm_george","speed":0.95},
+ {"id":"l07","text":"The detail is corrected. The change never has to happen.","voice":"bm_george","speed":0.95},
+ {"id":"l08","text":"The same knowledge serves everyone: the engineer at the screen, managers and leadership through KPIs,","voice":"bm_george","speed":0.95},
+ {"id":"l09","text":"and the next project, through learnings from manufacturing.","voice":"bm_george","speed":0.95},
+ {"id":"l10","text":"PREVENT belongs to no single person. Engineers feed it, and it feeds them.","voice":"bm_george","speed":0.95},
+ {"id":"l11","text":"It only works as long as that loop keeps turning.","voice":"bm_george","speed":0.95},
+ {"id":"l12","text":"The first step is a pilot: learn from a thousand past changes, test on a thousand more,","voice":"bm_george","speed":0.95},
+ {"id":"l13","text":"and move on only when the result is good enough.","voice":"bm_george","speed":0.95}
+]

@@ -1,0 +1,16 @@
+PREVENT: Before the Change
+
+Picture
+- Every wireframe, dot, HUD element and light effect is drawn in code (film.js, models.js, engine/). No generated or stock images.
+- The part, drawing, parts list, station and figures are invented. No real part, drawing, ECR, system screenshot, person or logo appears.
+- engine/holo.js and engine/hud.js are copied from the Lemo-Opuscar library (style "Sci-fi Hologram HUD"), MIT licence.
+
+Fonts (SIL Open Font License 1.1, licence files in fonts/)
+- Rajdhani, Indian Type Foundry
+- Share Tech Mono, Carrois Apostrophe
+
+Voice
+- Kokoro TTS v1.0 (hexgrad/Kokoro-82M, Apache-2.0), voice bm_george, via kokoro-onnx. A stand-in: replace with your own recording.
+
+Music and sound
+- Original score and all sound effects synthesised in numpy (mix.py, with helpers from the library's core/audio/sfx.py, MIT). No samples.

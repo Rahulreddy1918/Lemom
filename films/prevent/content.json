@@ -1,0 +1,53 @@
+{
+  "title": "PREVENT",
+  "tagline": "PREDICT THE CHANGE. PREVENT THE CHANGE.",
+  "endline": "ENGINEERING KNOWLEDGE, WORKING BEFORE THE CHANGE.",
+  "hue": 2,
+  "accent": 44,
+  "dim": { "before": "Ø 12.0", "after": "Ø 12.5", "tag": "LATE CHANGE" },
+  "line": ["DRAWING", "PARTS LIST", "PRODUCTION"],
+  "calm": "NO CHANGE",
+  "piles": ["ECRS", "RULES", "ENGINEERING DOCUMENTS"],
+  "card": { "label": "SEEN BEFORE", "value": "12.5", "unit": "MM", "detail": "CHECK THIS HOLE. IT CHANGED LATE BEFORE." },
+  "outputs": [
+    { "label": "ENGINEER", "detail": "WARNING IN NX" },
+    { "label": "LEADERSHIP", "detail": "KPI DASHBOARD" },
+    { "label": "NEXT PROJECT", "detail": "LEARNINGS BACK TO EPT" }
+  ],
+  "sources": ["SUPPLIER", "PROCUREMENT"],
+  "pilot": {
+    "head": "PILOT · PLAN FIGURES",
+    "cards": [
+      { "label": "LEARN FROM", "value": "1,000", "unit": "ECRS" },
+      { "label": "TEST ON", "value": "1,000", "unit": "ECRS" },
+      { "label": "TARGET PASS RATE", "value": "70–80", "unit": "%" }
+    ]
+  },
+  "statements": {
+    "s1": "ONE SMALL CHANGE.",
+    "s2": "WE HAVE SEEN THIS BEFORE.",
+    "s3": "THE ANSWER ALREADY EXISTS.",
+    "s4": "IT IS JUST NOT CONNECTED.",
+    "s5": "ONE KNOWLEDGE GRAPH.",
+    "s6": "BEFORE THE CHANGE IS RECORDED.",
+    "s7": "ONE KNOWLEDGE BASE. MANY OUTPUTS.",
+    "s8": "MORE KNOWLEDGE IN. MORE VALUE OUT.",
+    "s9": "A LOOP, NOT A TOOL.",
+    "s10": "IF THE LOOP BREAKS, PREVENT BREAKS."
+  },
+  "voice": [
+    { "id": "l01", "at": 5.0, "sub": "One small change, found late, touches everything after it." },
+    { "id": "l02", "at": 18.3, "sub": "And it is not new. The same kind of change has happened before." },
+    { "id": "l03", "at": 26.0, "sub": "Everything needed to stop it is already in the company. It is only scattered." },
+    { "id": "l04", "at": 42.7, "sub": "This is PREVENT." },
+    { "id": "l05", "at": 45.6, "sub": "It connects what engineering already knows into one knowledge graph that keeps growing." },
+    { "id": "l06", "at": 57.0, "sub": "While the engineer is still finalising the design, PREVENT speaks up." },
+    { "id": "l07", "at": 68.3, "sub": "The detail is corrected. The change never has to happen." },
+    { "id": "l08", "at": 80.6, "sub": "The same knowledge serves everyone: the engineer at the screen, managers and leadership through KPIs," },
+    { "id": "l09", "at": 88.0, "sub": "and the next project, through learnings from manufacturing." },
+    { "id": "l10", "at": 99.5, "sub": "PREVENT belongs to no single person. Engineers feed it, and it feeds them." },
+    { "id": "l11", "at": 110.6, "sub": "It only works as long as that loop keeps turning." },
+    { "id": "l12", "at": 115.2, "sub": "The first step is a pilot: learn from 1,000 past changes, test on 1,000 more," },
+    { "id": "l13", "at": 121.7, "sub": "and move on only when the result is good enough." }
+  ]
+}

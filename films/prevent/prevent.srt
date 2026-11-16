@@ -1,0 +1,51 @@
+1
+00:00:04,900 --> 00:00:09,665
+One small change, found late, touches everything after it.
+
+2
+00:00:18,200 --> 00:00:22,930
+And it is not new. The same kind of change has happened before.
+
+3
+00:00:25,900 --> 00:00:31,658
+Everything needed to stop it is already in the company. It is only scattered.
+
+4
+00:00:42,600 --> 00:00:44,667
+This is PREVENT.
+
+5
+00:00:45,500 --> 00:00:51,679
+It connects what engineering already knows into one knowledge graph that keeps growing.
+
+6
+00:00:56,900 --> 00:01:02,015
+While the engineer is still finalising the design, PREVENT speaks up.
+
+7
+00:01:08,200 --> 00:01:12,963
+The detail is corrected. The change never has to happen.
+
+8
+00:01:20,500 --> 00:01:27,860
+The same knowledge serves everyone: the engineer at the screen, managers and leadership through KPIs,
+
+9
+00:01:27,900 --> 00:01:32,156
+and the next project, through learnings from manufacturing.
+
+10
+00:01:39,400 --> 00:01:45,306
+PREVENT belongs to no single person. Engineers feed it, and it feeds them.
+
+11
+00:01:50,500 --> 00:01:54,462
+It only works as long as that loop keeps turning.
+
+12
+00:01:55,100 --> 00:02:01,560
+The first step is a pilot: learn from 1,000 past changes, test on 1,000 more,
+
+13
+00:02:01,600 --> 00:02:05,632
+and move on only when the result is good enough.
